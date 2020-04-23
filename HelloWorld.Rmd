@@ -1,6 +1,13 @@
 ---
-output:
-  word_document: default
-  html_document: default
+title: "Untitled"
+author: "Maria Purice"
+date: "4/22/2020"
+output: word_document
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
 ## This is a markdown file
+
